@@ -1,0 +1,13 @@
+{
+  "name": "testing-project",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "devDependencies": {
+    "grunt-contrib": "~0.1.7"
+  },
+  "author": {
+    "name": "Tim Macdonald"
+  }
+}
